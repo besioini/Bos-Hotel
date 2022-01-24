@@ -1,0 +1,31 @@
+
+#navbar .logo{
+    float: none;
+    text-align: center;
+    padding-bottom: 0.5px;
+}
+
+#navbar ul, #navbar ul li {
+    float: none;
+    text-align: center;
+    padding: 3px 3px;
+}
+
+#navbar ul li a {
+    padding: 5px;
+}
+
+.box {
+    float: none;
+    width: 100%;
+}
+#about-info {
+    height: auto;
+}
+
+#about-info .info-left, 
+#about-info .info-right {
+    float:none;
+    width: 100%;
+    text-align: center;
+}
